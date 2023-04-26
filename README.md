@@ -1,5 +1,5 @@
 This is edited files by Songyuhao Shi for the project. All these upload files should be replaced in C:\Users\"Your username"\DIR\minetest\src\script
-
+Mod files should replaced here : C:\Users\"Your username"\DIR\minetest
 
 
 Minetest
